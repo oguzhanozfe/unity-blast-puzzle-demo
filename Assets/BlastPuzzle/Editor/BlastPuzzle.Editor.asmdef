@@ -1,0 +1,8 @@
+{
+  "name": "BlastPuzzle.Editor",
+  "rootNamespace": "OguzhanOzdemir.BlastPuzzle.Editor",
+  "references": ["BlastPuzzle.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
+

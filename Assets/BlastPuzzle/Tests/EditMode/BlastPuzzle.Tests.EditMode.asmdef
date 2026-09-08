@@ -1,0 +1,8 @@
+{
+  "name": "BlastPuzzle.Tests.EditMode",
+  "rootNamespace": "OguzhanOzdemir.BlastPuzzle.Tests",
+  "references": ["BlastPuzzle.Runtime"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": false
+}

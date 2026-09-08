@@ -1,0 +1,7 @@
+{
+  "name": "BlastPuzzle.Runtime",
+  "rootNamespace": "OguzhanOzdemir.BlastPuzzle",
+  "references": ["Unity.ugui"],
+  "autoReferenced": true
+}
+
